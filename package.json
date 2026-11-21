@@ -1,1 +1,1 @@
-{"description":"A small Node program that writes one short text, written to relax the AI judge reading it, to entry.txt.","license":"MIT","name":"relax-the-judge","type":"module","version":"1.0.0"}
+{"name":"relax-the-judge","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
